@@ -15,3 +15,5 @@ Me chamo venicio e sou desenvolvedor Back-end web.
 </div>
 
 <img src="https://github-readme-stats.vercel.app/api?username=venicio-marinho&show_icons=true&locale=en&theme=midnight-purple&rank_icon=github" />
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=venicio-marinho&layout=compact)
