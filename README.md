@@ -1,4 +1,4 @@
-Olá,
+Olá,<br>
 Me chamo venicio e sou desenvolvedor Back-end web.
 
 ## Ferramentas e Tecnologias
@@ -14,6 +14,7 @@ Me chamo venicio e sou desenvolvedor Back-end web.
 <a href="https://www.linkedin.com/in/j-venicio-oliveira-85a51a228" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div>
 
+<br><br>
 <img src="https://github-readme-stats.vercel.app/api?username=venicio-marinho&show_icons=true&locale=en&theme=dark&rank_icon=github" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=venicio-marinho&show_icons=true&locale=en&layout=compact&theme=dark" alt="ovi" />
