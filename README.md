@@ -27,4 +27,8 @@ Me chamo venicio e sou desenvolvedor Back-end web.
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=venicio-marinho&show_icons=true&locale=en&layout=compact&theme=holi" alt="ovi" />
 
-[![snake gif](https://github.com/venicio-marinho/venicio-marinho/blob/output/github-contribution-grid-snake2.svg)]
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/venicio-marinho/venicio-marinho/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/venicio-marinho/venicio-marinho/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/venicio-marinho/venicio-marinho/output/github-contribution-grid-snake.svg">
+</picture>
