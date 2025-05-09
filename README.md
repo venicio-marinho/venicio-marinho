@@ -1,5 +1,5 @@
 Olá,<br>
-Me chamo venicio e sou desenvolvedor Back-end web.
+Me chamo venicio e sou desenvolvedor FullStack web.
 
 <h2>Utilidades</h2>
 
