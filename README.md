@@ -41,7 +41,7 @@ Me chamo venicio e sou desenvolvedor FullStack web.
 
 <h2>Onde me encontrar</h2>
 
-[![Linkedin](https://img.shields.io/badge/-venicio-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/j-venicio-oliveira-85a51a228)](https://www.linkedin.com/in/j-venicio-oliveira-85a51a228)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/j-venicio-oliveira-85a51a228)](https://www.linkedin.com/in/j-venicio-oliveira-85a51a228)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:contato@venicio.dev.br)
 
 <br><br>
