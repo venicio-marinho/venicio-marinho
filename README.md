@@ -1,5 +1,5 @@
 Olá,<br>
-Me chamo venicio e sou desenvolvedor FullStack web.
+Me chamo venicio e sou Desenvolvedor Back-end especializado em PHP/Laravel.
 
 🚀 Principais Projetos
 <h2>DoaFlow — Sistema de Gerenciamento de Doações</h2>
