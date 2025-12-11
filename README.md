@@ -9,14 +9,13 @@ Me chamo venicio e sou Desenvolvedor Back-end especializado em PHP/Laravel.
 <ul>
   <li>Criação de campanhas de doação</li>
   <li>Links públicos para contribuições</li>
-  <li>Controle por categorias e equipes</li>
-  <li>API REST completa com autenticação JWT</li>
+  <li>API REST completa com autenticação moderna com Laravel Sanctum</li>
   <li>Interface moderna e responsiva</li>
 </ul>
 
 <h2>VNT Flex — Gestão Modular para Empreendedores (SaaS)</h2>
 
-<b>Stack</b>: Laravel + VueJS + MySQL + Docker
+<b>Stack</b>: Laravel + JWT + VueJS + MySQL + Docker
 <ul>
   <li>Multi-empresas</li>
   <li>Módulos escaláveis</li>
