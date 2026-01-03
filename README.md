@@ -15,12 +15,11 @@ Me chamo venicio e sou Desenvolvedor Back-end especializado em PHP/Laravel.
 
 <h2>HoraFlex — Sistema de agendamento e gerenciamento de clientes/pacientes (SaaS)</h2>
 
-<b>Stack</b>: Laravel + JWT + VueJS + MySQL + Docker
+<b>Stack (Pré-MVP)</b>: PHP Orientado a Objeto + MySQL + Docker
 <ul>
-  <li>Multi-empresas</li>
-  <li>Módulos escaláveis</li>
-  <li>Arquitetura pronta para SaaS</li>
-  <li>Projeções financeiras e plano de crescimento</li>
+  <li>Cadastro de serviços</li>
+  <li>Link público para agendamento</li>
+  <li>Painel administrativo</li>
 </ul>
 
 <h2>Utilidades</h2>
