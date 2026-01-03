@@ -13,7 +13,7 @@ Me chamo venicio e sou Desenvolvedor Back-end especializado em PHP/Laravel.
   <li>Interface moderna e responsiva</li>
 </ul>
 
-<h2>VNT Flex — Gestão Modular para Empreendedores (SaaS)</h2>
+<h2>HoraFlex — Sistema de agendamento e gerenciamento de clientes/pacientes (SaaS)</h2>
 
 <b>Stack</b>: Laravel + JWT + VueJS + MySQL + Docker
 <ul>
